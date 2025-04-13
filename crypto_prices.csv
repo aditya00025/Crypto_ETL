@@ -1,0 +1,11 @@
+coin_id,symbol,name,price,market_cap,change_24h
+bitcoin,btc,Bitcoin,7283611.0,144435640012095,-0.24421
+ethereum,eth,Ethereum,140122.0,16907265623364,-0.82822
+tether,usdt,Tether,85.96,12411019219613,0.00247
+ripple,xrp,XRP,186.94,10895838679412,1.7236
+binancecoin,bnb,BNB,50447.0,7357550504788,-1.6138
+solana,sol,Solana,11315.64,5837402663888,1.30713
+usd-coin,usdc,USDC,85.97,5164008530864,-0.00091
+dogecoin,doge,Dogecoin,14.37,2137450796600,0.32906
+tron,trx,TRON,21.84,2073258057177,2.59001
+cardano,ada,Cardano,56.64,2037008965155,0.82731
